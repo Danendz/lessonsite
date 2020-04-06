@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lessonsite/static/css/main.0a8f2547.chunk.css",
-    "main.js": "/lessonsite/static/js/main.35fda443.chunk.js",
-    "main.js.map": "/lessonsite/static/js/main.35fda443.chunk.js.map",
+    "main.js": "/lessonsite/static/js/main.089e80ed.chunk.js",
+    "main.js.map": "/lessonsite/static/js/main.089e80ed.chunk.js.map",
     "runtime-main.js": "/lessonsite/static/js/runtime-main.e5f2a39a.js",
     "runtime-main.js.map": "/lessonsite/static/js/runtime-main.e5f2a39a.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/lessonsite/static/css/2.3b6f1bda.chunk.css",
     "static/js/2.843b3040.chunk.js": "/lessonsite/static/js/2.843b3040.chunk.js",
     "static/js/2.843b3040.chunk.js.map": "/lessonsite/static/js/2.843b3040.chunk.js.map",
     "index.html": "/lessonsite/index.html",
-    "precache-manifest.351a5d6490c34b384c708d25db298d56.js": "/lessonsite/precache-manifest.351a5d6490c34b384c708d25db298d56.js",
+    "precache-manifest.b0ef4358018d854470eac9d1cc9dafd0.js": "/lessonsite/precache-manifest.b0ef4358018d854470eac9d1cc9dafd0.js",
     "service-worker.js": "/lessonsite/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/lessonsite/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.0a8f2547.chunk.css.map": "/lessonsite/static/css/main.0a8f2547.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.843b3040.chunk.js",
     "static/css/main.0a8f2547.chunk.css",
-    "static/js/main.35fda443.chunk.js"
+    "static/js/main.089e80ed.chunk.js"
   ]
 }
